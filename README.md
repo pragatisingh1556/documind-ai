@@ -82,6 +82,3 @@ _Coming soon_
 
 This way the AI only answers from your document, not from its general knowledge.
 
-## Author
-
-**Pragati Singh** - 2025 Graduate
